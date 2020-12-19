@@ -1,0 +1,17 @@
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\bin\Debug\VideoMarketPortalim.exe.config
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\bin\Debug\VideoMarketPortalim.exe
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\bin\Debug\VideoMarketPortalim.pdb
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.csprojResolveAssemblyReference.cache
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.Form1.resources
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.Properties.Resources.resources
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.csproj.GenerateResource.Cache
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.exe
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.pdb
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.FrmMain.resources
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.FrmFilmTanimlamaEkrani.resources
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.FrmFilmSorgula.resources
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.FrmFilmTurleri.resources
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.FrmMusteriIslemleri.resources
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.FrmMusteriSorgulama.resources
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.FrmFilmSatisIslemleri.resources
+D:\Visual Studio Örnekleri\VideoMarketPortalim\VideoMarketPortalim\obj\Debug\VideoMarketPortalim.FrmSatisTarihleri.resources
